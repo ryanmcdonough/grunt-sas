@@ -1,0 +1,22 @@
+{
+  "name": "grunt-sas",
+  "version": "1.0.0",
+  "description": "Super Army Solider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmcdonough/grunt-sas.git"
+  },
+  "keywords": [
+    "sas"
+  ],
+  "author": "Ryan McDonough <me@ryanmcdonough.co.uk> (www.ryanmcdonough.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanmcdonough/grunt-sas/issues"
+  },
+  "homepage": "https://github.com/ryanmcdonough/grunt-sas#readme"
+}
